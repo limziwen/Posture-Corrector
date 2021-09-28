@@ -14,3 +14,4 @@ Run
   
 2. Keep track of terminal output
   - When posture becomes poor, it'll notify you
+
